@@ -2,10 +2,4 @@ Hola a todos esta es la segunda vez que realizare un repositorio en Git.
 
 Esta vez usare salto de linea para probar la terminal de WSL ubuntu
 
-gegege
-
-Bueno, al parecer si me agrada mas utilizar la terminal de ubuntuuuuuu
-
-Aqui pondre otra linea para poder verlo con git diff
-
-Otro commit masssss
+Al rato ire  a jugar fifa en el xbox
