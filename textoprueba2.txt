@@ -7,3 +7,5 @@ gegege
 Bueno, al parecer si me agrada mas utilizar la terminal de ubuntuuuuuu
 
 Aqui pondre otra linea para poder verlo con git diff
+
+Otro commit masssss
