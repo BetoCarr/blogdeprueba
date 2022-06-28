@@ -6,4 +6,4 @@ gegege
 
 Bueno, al parecer si me agrada mas utilizar la terminal de ubuntuuuuuu
 
-Aqui pondre otro parrafo para poder verlo con git diff
+Aqui pondre otra linea para poder verlo con git diff
