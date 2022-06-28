@@ -5,3 +5,5 @@ Esta vez usare salto de linea para probar la terminal de WSL ubuntu
 gegege
 
 Bueno, al parecer si me agrada mas utilizar la terminal de ubuntuuuuuu
+
+Aqui pondre otro parrafo para poder verlo con git diff
